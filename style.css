@@ -1,0 +1,34 @@
+body {
+  background: #0e566e;
+  background: linear-gradient(
+    90deg,
+    rgba(14, 86, 110, 1) 0%,
+    rgb(87, 199, 180) 50%,
+    rgba(20, 96, 115, 1) 100%
+  );
+  font-family: "Nunito", sans-serif;
+}
+
+.keret {
+  width: 80%;
+  border: 5px solid #0f4049;
+  background: rgb(27, 150, 180);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+}
+
+.hasab-bal {
+  text-align: justify;
+}
+
+.kep {
+  width: 20%;
+  height: auto;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  margin: auto;
+}
